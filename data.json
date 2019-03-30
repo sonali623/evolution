@@ -1,24 +1,4 @@
-{"name":"Tucuxi Dolphin",
- 	"coverImageURL":"https://upload.wikimedia.org/wikipedia/commons/b/b1/DELFIN_DEL_ORINOCO2.JPG",
- 	"briefDescription":"The tucuxi (Sotalia fluviatilis), alternatively in Peru bufeo gris or bufeo negro, is a species of freshwater dolphin found in the rivers of the Amazon Basin.",
- 	"taxonomy":{
- 		"commonName":"tucuxi",
- 		"binomialName":"Sotalia fluviatilis",
- 		"class": "Mammalia",
- 		"order": "Artiodactyla",
- 		"family": "Delphinidae",
- 		"genus":"Sotalia"
- 	},
- 	"timeline":[{
- 				"when":"Present",
- 				"what":"Tucuxi Dolphin",
- 				"food":"Tucuxis forage in tight groups, often chasing fish in rapid dashes just below the water surface, with fish jumping out of their way. Thirty species of fish are known to be prey, some living in protected lakes and channels, while others occur in fast-flowing rivers.",
- 				"size":" around 1.5 m (4.9 ft)",
- 				"evolution":"Dolphins evolved from a terrestrial ancestor which gradually adapted to life in the sea. Their closest terrestrial relative is the Hippopotamus.",
- 				"traits":["The tucuxi exists in small groups of about 10-15 individuals, and swim in tight-knit groups, suggesting a highly developed social structure. Tucuxis are quite active and may jump clear of the water (a behavior known as breaching), somersault, spy-hop or tail-splash. They are unlikely, however, to approach boats."]
- 			}
- 		]
- },
+
  {
  	"name": "Goldfish",
  	"coverImageURL": " https://unsplash.com/photos/V7SKRhXskv8",
