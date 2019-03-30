@@ -9,7 +9,7 @@
  		"class": "Actinopterygii",
  		"order": "Cypriniformes",
  		"family": "Cyprinidae",
- 		"genus":"Carassius",
+ 		"genus":"Carassius"
  	},
  	"timeline":[{
  				"when": "265 million years ago",
@@ -59,7 +59,7 @@
  		"class": "Reptilia",
  		"order": "Squamata",
  		"family": "Agamidae",
- 		"genus":"Draco",
+ 		"genus":"Draco"
  	},
  	"timeline":[{
  				"when": "199 million years ago",
@@ -94,7 +94,7 @@
  		"class": "Aves",
  		"order": "Struthioniformes",
  		"family": "Struthionidae",
- 		"genus":"Struthio",
+ 		"genus":"Struthio"
  	},
  	"timeline":[{
  				"when": "23 million years ago",
@@ -122,7 +122,7 @@
  		"class": "Pre Mammalia",
  		"order": "Artiodactyla",
  		"family": "Triisodontidae",
- 		"genus":"Andrewsarchus",
+ 		"genus":"Andrewsarchus"
  	},
  	"timeline":[{
  				"when": "48 million years ago",
@@ -158,7 +158,7 @@
  		"class": "Reptilia",
  		"order": "Testudines",
  		"family": "Emydidae",
- 		"genus":"Triturus",
+ 		"genus":"Triturus"
  	},
  	"timeline":[{
  				"when": "220 million years ago",
@@ -193,7 +193,7 @@
  		"class": "Reptilia",
  		"order": "Crocodilia",
  		"family": "Alligatoridae",
- 		"genus":"Alligator",
+ 		"genus":"Alligator"
  	},
  	"timeline":[{
  				"when": "8million years ago",
@@ -221,7 +221,7 @@
  		"class": "Reptilia",
  		"order": "Squamata",
  		"family": "Viperidae",
- 		"genus":"Crotalus",
+ 		"genus":"Crotalus"
  	},
  	"timeline":[{
  				"when": "94 million years ago",
@@ -264,7 +264,7 @@
  		"class": "Aves",
  		"order": "Anseriformes",
  		"family": "Anatidae",
- 		"genus":"Cygnus",
+ 		"genus":"Cygnus"
  	},
  	"timeline":[{
  				"when": "13000",
@@ -300,7 +300,7 @@
  		"class": "Aves",
  		"order": "Coraciiformes",
  		"family": "Alcedinidae",
- 		"genus":"Ceyx",
+ 		"genus":"Ceyx"
  	},
  	"timeline":[{
  				"when": "8 million years ago",
@@ -321,7 +321,7 @@
  		"class": "Pre Mammalia",
  		"order": "Perissodactyla",
  		"family": "Brontotheriidae",
- 		"genus":"Megacerops",
+ 		"genus":"Megacerops"
  	},
  	"timeline":[{
  				"when": "38 million years ago",
@@ -342,7 +342,7 @@
  		"class": "Pre Mammalia",
  		"order": "Artiodactyla",
  		"family": "Entelodontidae",
- 		"genus":"Entelodon",
+ 		"genus":"Entelodon"
  	},
  	"timeline":[{
  				"when": "37 million years ago",
@@ -364,7 +364,7 @@
  		"class": "Aves",
  		"order": "Sphenisciformes",
  		"family": "Spheniscidae",
- 		"genus":"Pygoscelis",
+ 		"genus":"Pygoscelis"
  	},
  	"timeline":[{
  				"when": "38 million years ago",
@@ -386,7 +386,7 @@
  		"class": "Mammalia",
  		"order": "Carnivora",
  		"family": "Canidae",
- 		"genus":"Canis",
+ 		"genus":"Canis"
  	},
  	"timeline":[{
  				"when": "25,700 years ago",
@@ -428,7 +428,7 @@
  		"class": "Mammalia",
  		"order": "Carnivora",
  		"family": "Canidae",
- 		"genus":"Canis",
+ 		"genus":"Canis"
  	},
  	"timeline":[{
  				"when":"1 million years ago",
@@ -455,7 +455,7 @@
  		"class": "Mammalia",
  		"order": "Monotremata",
  		"family": "Ornithorhynchidae",
- 		"genus":"Ornithorhynchus",
+ 		"genus":"Ornithorhynchus"
  	},
  	"timeline":[{
  				"when": "19-48 million years ago",
@@ -477,7 +477,7 @@
  		"class":"Mammalia",
  		"order":"Primates",
  		"family":"Homonidae",
- 		"genus":"Homo",
+ 		"genus":"Homo"
  	},
  	"timeline":[{
  				"when": "300,000 years ago",
