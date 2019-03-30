@@ -1,0 +1,539 @@
+{"name":"Tucuxi Dolphin",
+ 	"coverImageURL":"https://upload.wikimedia.org/wikipedia/commons/b/b1/DELFIN_DEL_ORINOCO2.JPG",
+ 	"briefDescription":"The tucuxi (Sotalia fluviatilis), alternatively in Peru bufeo gris or bufeo negro, is a species of freshwater dolphin found in the rivers of the Amazon Basin.",
+ 	"taxonomy":{
+ 		"commonName":"tucuxi",
+ 		"binomialName":"Sotalia fluviatilis",
+ 		"class": "Mammalia",
+ 		"order": "Artiodactyla",
+ 		"family": "Delphinidae",
+ 		"genus":"Sotalia",
+ 	},
+ 	"timeline":[{
+ 				"when":"Present",
+ 				"what":"Tucuxi Dolphin",
+ 				"food":"Tucuxis forage in tight groups, often chasing fish in rapid dashes just below the water surface, with fish jumping out of their way. Thirty species of fish are known to be prey, some living in protected lakes and channels, while others occur in fast-flowing rivers.",
+ 				"size":" around 1.5 m (4.9 ft)",
+ 				"evolution":"Dolphins evolved from a terrestrial ancestor which gradually adapted to life in the sea. Their closest terrestrial relative is the Hippopotamus.",
+ 				"traits":["The tucuxi exists in small groups of about 10-15 individuals, and swim in tight-knit groups, suggesting a highly developed social structure. Tucuxis are quite active and may jump clear of the water (a behavior known as breaching), somersault, spy-hop or tail-splash. They are unlikely, however, to approach boats."]
+ 			},
+ 		]
+ },
+ {
+ 	"name": "Goldfish",
+ 	"coverImageURL": " https://unsplash.com/photos/V7SKRhXskv8",
+ 	"briefDescription": "The goldfish (Carassius auratus) is a freshwater fish in the family Cyprinidae of order Cypriniformes. It is one of the most commonly kept aquarium fish.",
+ 	"taxonomy":{
+ 		"commonName": "Goldfish",
+ 		"binomialName":"Carassius auratus",
+ 		"class": "Actinopterygii",
+ 		"order": "Cypriniformes",
+ 		"family": "Cyprinidae",
+ 		"genus":"Carassius",
+ 	},
+ 	"timeline":[{
+ 				"when": "265 million years ago",
+ 				"what": "Goldfish",
+ 				"food": "They generally eat crustaceans, insects, and various plant matter.",
+ 				"size": "They can be 4 inches to 19 inches long.",
+ 				"evolution": "Said to have evolved from common carp and crucian carp by color mutation during the Jin Dynasty.",
+ 				"traits":["Classified as Tetrachromat based on vision.","Goldfish have strong associative learning abilities, as well as social learning skills. In addition, their visual acuity allows them to distinguish between individual humans. Goldfish have a memory-span of at least three months and can distinguish between different shapes, colors and sounds. By using positive reinforcement, goldfish can be trained to recognize and to react to light signals of different colours or to perform tricks.","They are a generalist species with varied feeding, breeding, and predator avoidance behaviors.","Reproduction: Goldfish, like all cyprinids, are egg-layers. Their eggs are adhesive and attach to aquatic vegetation, typically dense plants such as Cabomba or Elodea or a spawning mop. The eggs hatch within 48 to 72 hours."]
+ 			},
+ 			{
+ 				"when":"160 million years ago",
+ 				"what":"Cypriniformes",
+ 				"formAndStructure":"Branched from Ostariophysi during breakup of Pangea.",
+ 				"evolution":"Weberian apparatus. Have only a dorsal fin on their back. Possess a kinethmoid and pharyngeal teeth." 
+
+			},
+ 			{
+ 				"when":"200 million years ago",
+ 				"what":"Ostariophysi",
+ 				"formAndStructure": "Weberian Apparatus",
+ 				"evolution":"Diverged from other ray-finned fish or Actinopterygii during Jurassic"
+
+			},
+			{
+				"when":"440 million years ago",
+ 				"what":"Actinopterygii (Ray-Finned fish)",
+ 				"formAndStructure":"The ray-finned fishes are so called because their fins are webs of skin supported by bony or horny spines ('rays'), as opposed to the fleshy, lobed fins that characterize the class Sarcopterygii (lobe-finned fish). ",
+ 				"evolution":"Derived from super class Bony fish" 
+
+			},
+			{
+				"what":"Osteichthyes (Bony Fish)",
+				"when":"460 million years ago",
+				"formAndStructure":"Bony fish are characterized by a relatively stable pattern of cranial bones, rooted, medial insertion of mandibular muscle in the lower jaw. The head and pectoral girdles are covered with large dermal bones. The eyeball is supported by a sclerotic ring of four small bones, but this characteristic has been lost or modified in many modern species. The labyrinth in the inner ear contains large otoliths. The braincase, or neurocranium, is frequently divided into anterior and posterior sections divided by a fissure. Bony fish have no placoid scales. Mucus glands coat the body. Most have smooth and overlapping ganoid, cycloid or ctenoid scales.",
+				"evolution":"Fish diverged into bony and cartilaginous fishes."
+
+			}
+			]
+	 },
+	 {
+ 	"name": "Lizard",
+ 	"coverImageURL": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.sciencenews.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Farticle-main-image-large%2Fpublic%2F2017%2F04%2Fmain%2Fblogposts%2F041717_ht_lizardnumberticker_free.jpg%3Fitok%3DltoSxESf&imgrefurl=https%3A%2F%2Fwww.sciencenews.org%2Fblog%2Fscience-ticker%2Fsize-matters-lizards-numbers-may-not&docid=I3Wc5CFPKGK3vM&tbnid=mVS5EWLOoqfhLM%3A&vet=10ahUKEwjr_YD2g6rhAhWNSH0KHWOEAEkQMwh4KA4wDg..i&w=860&h=460&bih=740&biw=767&q=lizard&ved=0ahUKEwjr_YD2g6rhAhWNSH0KHWOEAEkQMwh4KA4wDg&iact=mrc&uact=8",
+ 	"briefDescription": "Lizard, (suborder Sauria), any of more than 5,500 species of reptiles belonging in the order Squamata (which also includes snakes, suborder Serpentes). Lizards are scaly-skinned reptiles that are usually distinguished from snakes by the possession of legs, movable eyelids, and external ear openings. However, some traditional (that is, non-snake) lizards lack one or more of these features. For example, limb degeneration and loss has occurred in glass lizards (Ophisaurus) and other lizard groups. Movable eyelids have been lost in some geckos, skinks, and night lizards. External ear openings have disappeared in some species in the genera Holbrookia and Cophosaurus. Most of the living species of lizards inhabit warm regions, but some are found near the Arctic Circle in Eurasia and others range to the southern tip of South America.",
+ 	"taxonomy":{
+ 		"commonName": "Lizard",
+ 		"binomialName":"Podarcis muralis",
+ 		"class": "Reptilia",
+ 		"order": "Squamata",
+ 		"family": "Agamidae",
+ 		"genus":"Draco",
+ 	},
+ 	"timeline":[{
+ 				"when": "199 million years ago",
+ 				"what":"Lizard",
+ 				"food": "Smaller lizards eat mainly insects and small spiders. Larger lizards, such as whiptails and bearded dragons, are omnivores and can eat both insects, small mammals and even fruits. ",
+ 				"size": "Lizards can range in from few centimeters to 3-4 meters.",
+ 				"evolution": "The lizards and other squamata evolved from lepidosauria.",
+ 				"traits":["The majority of lizard species are active during the day, though some are active at night, notably geckos. As ectotherms, lizards have a limited ability to regulate their body temperature, and must seek out and bask in sunlight to gain enough heat to become fully active","As with all amniotes, lizards rely on internal fertilisation and copulation involves the male inserting one of his hemipenes into the female's cloaca. The majority of species are oviparous (egg laying). The female deposits the eggs in a protective structure like a nest or crevice or simply on the ground.Depending on the species, clutch size can vary from 4–5 percent of the females body weight to 40–50 percent and clutches range from one or a few large eggs to dozens of small ones.Sex determination in lizards can be temperature-dependent."]
+ 			},
+ 			{
+ 				"when":"220 million years ago",
+ 				"what":"Lepidosauria",
+ 				"formAndStructure": "Lepidosauria ,Pantestudines  and Kuehneosauridae evolved from Lepidouromorpha.",
+ 				"evolution": "Lepidosauria can be characterized by the reduction or loss of limbs. The skin of all squamates is covered in scales. The upper jaw of Lepidosauria is movable on the cranium, a configuration called kinesis. This is made possible by a loose connection between the quadrate and its neighboring bones. Without this, snakes would not be able consume prey that are much larger than themselves."
+
+			},
+			{
+ 				"when":"247 million years ago",
+ 				"what":"Lepidouromorpha",
+ 				"formAndStructure": "Lepidosauromorpha are distinguishable from Archosauromorphs (archosaurs) by their primitive sprawling gait, which allows for the same sinusoidal trunk and tail movement seen in fish, the sliding "joint" between the coracoids and the sternum (for a longer stride), and their pleurodont dentition. In contrast, Archosauromorphs possess a parasagittal gait, a reduction in their dermal girdle, a reduction and/or loss of the sternum, and a more thecodont dentition.",
+ 				"evolution": "Lepidouromorpha and Archosauromorpha evolved from  Archelosauria."
+
+			}]
+	 },
+	 {
+ 	"name": "Ostrich",
+ 	"coverImageURL": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff4%2FOstrich_Ngorongoro_05.jpg%2F1200px-Ostrich_Ngorongoro_05.jpg&f=1",
+ 	"briefDescription": "Ostriches are seen individually, in pairs, in small flocks, or in large aggregations, depending on the season. The ostrich relies on its strong legs—uniquely two-toed, with the main toe developed almost as a hoof—to escape its enemies, chiefly humans and the larger carnivores. A frightened ostrich can achieve a speed of 72.5 km (45 miles) per hour. If cornered, it can deliver dangerous kicks.",
+ 	"taxonomy":{
+ 		"commonName": "Common Ostrich",
+ 		"binomialName":"Struthio camelus",
+ 		"class": "Aves",
+ 		"order": "Struthioniformes",
+ 		"family": "Struthionidae",
+ 		"genus":"Struthio",
+ 	},
+ 	"timeline":[{
+ 				"when": "23 million years ago",
+ 				"what":"Ostrich",
+ 				"food": "Ostriches are omnivores, which means they eat both vegetation and meat. Although they prefer plants — especially roots, seeds and leaves — they also eat locusts, lizards, snakes and rodents. They also eat sand and pebbles, to help grind up their food inside their gizzard, which is a small pouch where food is crushed and ripped up before it reaches the stomach. ",
+ 				"size": "The largest living bird, an adult male may be 2.75 metres (about 9 feet) tall—almost half of its height is neck—and weigh more than 150 kg (330 pounds); the female is somewhat smaller. ",
+ 				"evolution": "Ostriches have co-existed with another lineage of flightless didactyl birds, the eogruids. They are universally considered to be related to cranes.",
+ 				"traits":["Though they cannot fly, ostriches are fleet, strong runners. They can sprint up to 43 miles an hour and run over distance at 31 miles an hour. They may use their wings as "rudders" to help them change direction while running. An ostrich's powerful, long legs can cover 10 to 16 feet in a single stride. These legs can also be formidable weapons.","During mating season the isolated living or pair living will merge into groups called herds. They will have a dominant male that takes care of them. They will also have a dominant female. She is the only one that the dominant male will mate with.  In order for the other males to mate they will have to attract females through a dancing ritual. She will have the final decision with who she is going to mate with. The females will only mate with one male but a male may mate with several females. There is one very large nest that is created for the eggs to be placed into.","ostriches are only found natively in the wild in Africa, where they occur in a range of open arid and semi-arid habitats such as savannas and the Sahel, both north and south of the equatorial forest zone. The Somali ostrich occurs in the Horn of Africa, having evolved isolated from the common ostrich by the geographic barrier of the East African Rift."]
+ 			},
+ 			{
+ 				"when":"40 million years ago",
+ 				"what":"Paleognathous",
+ 				"formAndStructure": "Paleognathous could be classified into two groups :Struthioniformes (Ostriches) and Notopalaeognathae. ",
+ 				"evolution": "The word Paleognath is derived from the ancient Greek for in reference to the skeletal anatomy of the palate, which is described as more primitive and reptilian than that in other birds. Paleognathous birds retain some basal morphological characters but are by no means living fossils as their genomes continued to evolve at the DNA level under selective pressure at rates comparable to the Neognathae branch of living birds, though there is some controversy about the precise relationship between them and the other birds."
+
+			}]
+	 },
+{
+ 	"name": "Andrewsarchus ",
+ 	"coverImageURL": "https://vignette.wikia.nocookie.net/walkingwith/images/2/27/AndrewsarchusBook.jpg/revision/latest?cb=20140127201511",
+ 	"briefDescription": "All we know about Andrewsarchus amounts to a single, three-foot-long, vaguely wolf-shaped skull, discovered in Mongolia in 1923. While the skull clearly belongs to some type of mammal—there are obvious diagnostic markers by which paleontologists can distinguish between reptilian and mammalian bones—the lack of an accompanying skeleton has resulted in nearly a century of confusion, and debate, about what type of animal Andrewsarchus really was.",
+ 	"taxonomy":{
+ 		"commonName": "Andrewsarchus",
+ 		"binomialName":"Andrewsarchus mongoliensis",
+ 		"class": "Pre Mammalia",
+ 		"order": "Artiodactyla",
+ 		"family": "Triisodontidae",
+ 		"genus":"Andrewsarchus",
+ 	},
+ 	"timeline":[{
+ 				"when": "48 million years ago",
+ 				"what":"Andrewsarchus",
+ 				"food": "Given its tooth structure, the musculature of its jaws, and the fact that its single skull was discovered along the shoreline, some scientists speculate that Andrewsarchus fed mostly on hard-shelled mollusks and turtles. ",
+ 				"size": "If one naively extrapolates from the size of its skull, it's easy to come to the conclusion that Andrewsarchus was the biggest predatory terrestrial mammal that ever lived. ",
+ 				"evolution": "Andrewsarchus evolvedlater into sheep",
+ 				"traits":["This large heavily-built, wolf-like, mammal lived during the Eocene, about 45 to 36 million years ago. It walked on four short legs and had a long body, a long tail, and feet with hoofed toes. It had a long snout with large, sharp teeth and flat cheek teeth that may have been used to crush bones.  Because Andrewsarchus is only known from a skull and a few other bones, whether it was an active predator or merely a large scavenger is open to debate, as is its exact time range."]
+ 			},
+ 			{
+ 				"when":"5 million years ago",
+ 				"what":"Sheep",
+ 				"formAndStructure": "Sheep is the direct descendent of Andrewsarchus. This change took millions of years. Andrewsarchus stopping eating carnivores(reasons are unknown) and eventually lost its characteristics traits and devolved to sheep and sheep-like structures. ",
+ 				"evolution": "Sheep are flock animals and strongly gregarious; much sheep behavior can be understood on the basis of these tendencies. The dominance hierarchy of sheep and their natural inclination to follow a leader to new pastures were the pivotal factors in sheep being one of the first domesticated livestock species."
+
+			},
+		    {
+ 				"when":"Unknown",
+ 				"what":"Mouflon",
+ 				"formAndStructure": "Mouflon sheep have reddish to dark brown, short-haired coats with dark back stripes and black ventral areas and light-colored saddle patches. The males are horned; some females are horned, while others are polled. The horns of mature rams are curved in almost one full revolution (up to 85 cm). Mouflon have shoulder heights around 0.9 m and body weights of 50 kg (males) and 35 kg (females).",
+ 				"evolution": "The mouflon (Ovis orientalis orientalis group) is a subspecies group of the wild sheep (Ovis orientalis). Populations of O. orientalis can be partitioned into the mouflons (orientalis group) and the urials (vignei group). The mouflon is thought to be the ancestor for all modern domestic sheep breeds."
+
+			}]
+	 },
+
+{
+ 	"name": "Turtles",
+ 	"coverImageURL": "https://cff2.earth.com/uploads/2019/01/23121937/Fake-GPS-turtle-eggs-are-being-used-to-help-track-wildlife-poachers-730x410.jpg",
+ 	"briefDescription": "A turtle is an amphibious reptile that lives on land andunderwater. Some are small, but the largest can weigh over 1,000pounds. It moves slowly, but lives a long time. It tucks its headand limbs into its hard shell for protection.",
+ 	"taxonomy":{
+ 		"commonName": "Turtles",
+ 		"binomialName":"Terrapene carolina",
+ 		"class": "Reptilia",
+ 		"order": "Testudines",
+ 		"family": "Emydidae",
+ 		"genus":"Triturus",
+ 	},
+ 	"timeline":[{
+ 				"when": "220 million years ago",
+ 				"what":"Turtles",
+ 				"food": "Terrestrial turtles also eat a variety of foods, from earthworms, grubs, snails, beetles and caterpillars to grasses, fruit, berries, mushrooms and flowers. Both aquatic and land turtles have been known to eat carrion (decaying flesh) when it's available.",
+ 				"size": "According to WWF ,a turtle can be upto 139-160 centimeters long.",
+ 				"evolution": "Pantestudines are evolved from Lepidosauromorpha.",
+ 				"traits":["While typically thought of as mute, turtles make various sounds when communicating. Tortoises may be vocal when courting and mating. Various species of both freshwater and sea turtles emit numerous types of calls, often short and low frequency, from the time they are in the egg to when they are adults. These vocalizations may serve to create group cohesion when migrating.","Turtles are known for displaying a wide variety of mating behaviors, however, they are not known for forming pair-bonds or for being part of a social group. Once fertilization has occurred and an offspring has been produced, neither parent will provide care for the offspring once it's hatched.Females generally outnumber males in various turtle species (such as Green turtles), and as a result, most males will engage in multiple copulation with multiple partners throughout their lifespan.","Turtles are thought to have exceptional night vision due to the unusually large number of rod cells in their retinas. Turtles have color vision with a wealth of cone subtypes with sensitivities ranging from the near ultraviolet (UVA) to red. Some land turtles have very poor pursuit movement abilities, which are normally found only in predators that hunt quick-moving prey, but carnivorous turtles are able to move their heads quickly to snap."]
+ 			},
+ 			{
+ 				"when":"247 million years ago",
+ 				"what":"Lepidouromorpha",
+ 				"formAndStructure": "Lepidouromorpha are distinguishable from Archosauromorphs (archosaurs) by their primitive sprawling gait, which allows for the same sinusoidal trunk and tail movement seen in fish, the sliding "joint" between the coracoids and the sternum (for a longer stride), and their pleurodont dentition. In contrast, Archosauromorphs possess a parasagittal gait, a reduction in their dermal girdle, a reduction and/or loss of the sternum, and a more thecodont dentition.",
+ 				"evolution": "Lepidouromorpha and Archosauromorpha evolved from  Archelosauria."
+
+			}
+		    {
+ 				"when":"265 million years ago",
+ 				"what":"Archelosauria",
+ 				"formAndStructure": "Archelosauria is a clade proposed in 2014 for the grouping of turtles and archosaurs (birds and crocodilians) and their fossil relatives. There are about 1000 ultra-conserved elements in their genome that are unique to turtles and archosaurs, but which are not found in lepidosaurs (tuatara, lizards and snakes).[2] Other genome-wide analysis also supports this grouping.",
+ 				"evolution": "Lepidosauria and Archelosauria are believed to be evoloved from Sauria."
+
+			}]
+	 },
+{
+ 	"name": "American Alligator",
+ 	"coverImageURL": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg2.timeinc.net%2Fpeople%2Fi%2F2015%2Fnews%2F150713%2Falligator-1024.jpg&f=1",
+ 	"briefDescription": "The American alligator (Alligator mississippiensis), sometimes referred to colloquially as a gator or common alligator, is a large crocodilian reptile endemic to the southeastern United States. It is one of two living species in the genus Alligator within the family Alligatoridae; it is larger than the other extant alligator species, the Chinese alligator.",
+ 	"taxonomy":{
+ 		"commonName": "Alligator",
+ 		"binomialName":"Alligator mississippiensis",
+ 		"class": "Reptilia",
+ 		"order": "Crocodilia",
+ 		"family": "Alligatoridae",
+ 		"genus":"Alligator",
+ 	},
+ 	"timeline":[{
+ 				"when": "8million years ago",
+ 				"what":"Alligator",
+ 				"food": "Adult alligators will prey on any aquatic resident and any animal that comes to the water or the water’s edge. Alligators will usually seek prey that is much smaller than they are. However, if given the opportunity, they will attack larger prey too. Musk rats and raccoons are among the some of the mammals that American alligators prey on. Nutrias are one of the alligator’s favorite preys. That is because they live on aquatic roots and alligators find it easy to ambush them.",
+ 				"size": "The average adult size for a female is 8.2 feet (2.6 meters), and the average size for a male is 11.2 feet (3.4 meters). ",
+ 				"evolution": "Alligators evolved from Archosauromorpha.",
+ 				"traits":["Large male alligators are solitary territorial animals. Smaller alligators can often be found in large numbers close to each other. The largest of the species (both males and females) defend prime territory; smaller alligators have a higher tolerance for other alligators within a similar size class.  Alligators move on land by two forms of locomotion referred to as "sprawl" and "high walk". The sprawl is a forward movement with the belly making contact with the ground and is used to transition to "high walk" or to slither over wet substrate into water. The high walk is an up on four limbs forward motion used for overland travel with the belly well up from the ground.","Alligators generally mature at a length of 6 ft (1.8 m). The mating season is in late spring. In April and May, alligators form so-called "bellowing choruses". Large groups of animals bellow together for a few minutes a few times a day, usually one to three hours after sunrise. The bellows of male American alligators are accompanied by powerful blasts of infrasound."]
+ 			},
+ 			{
+ 				"when":"265 million years ago",
+ 				"what":"Archosauromorpha",
+ 				"formAndStructure": "In conjunction with their long, S-shaped necks, early archosauromorphs had several adaptations of the cervical (neck) vertebrae, and usually the first few dorsal (back) vertebrae as well. The centrum (main body) of each vertebra is parallelogram-shaped, with a front surface typically positioned higher than the rear surface. The transverse processes (rib facets) of these vertebrae extend outwards to a greater extent than in other early reptiles. In many long-necked archosauromorphs, the rib facets are slanted, connecting to cervical ribs that are often long, thin, and dichocephalous (two-headed).",
+ 				"evolution": "They were the descendents of Archelosauria."
+
+			}]
+	 },
+{
+ 	"name": "Rattle Snake",
+ 	"coverImageURL": "https://www.gannett-cdn.com/-mm-/4477ccc957c8c7fd7f013c3bc86dd3107dd903ad/c=216-0-1202-741/local/-/media/2016/02/11/Phoenix/Phoenix/635907972527106006-s5.jpg?width=534&height=401&fit=crop",
+ 	"briefDescription": "Rattlesnake, any of 33 species of venomous New World vipers characterized by a segmented rattle at the tip of the tail that produces a buzzing sound when vibrated. Rattlesnakes are found from southern Canada to central Argentina but are most abundant and diverse in the deserts of the southwestern United States and northern Mexico",
+ 	"taxonomy":{
+ 		"commonName": "Rattle Snake",
+ 		"binomialName":"Crotalus cerastes",
+ 		"class": "Reptilia",
+ 		"order": "Squamata",
+ 		"family": "Viperidae",
+ 		"genus":"Crotalus",
+ 	},
+ 	"timeline":[{
+ 				"when": "94 million years ago",
+ 				"what":"Rattle Snake",
+ 				"food": "Rattlesnakes mainly feed on small mammals and birds. They also eat snakes such as other rattlesnakes and garter snakes, lizards, frogs and large insects such as grasshoppers.  The small mammals rattlesnakes feed on include rabbits, rats, mice, gophers, squirrels and prairie dogs. They prey on birds such as quails, owls, mockingbirds, sparrows and meadowlarks. ",
+ 				"size": "Adults usually vary in length from 0.5 to 2 metres (1.6 to 6.6 feet), but some can grow to 2.5 metres (8.2 feet). ",
+ 				"evolution": "Snakes are believed to be evolved from early lizards, Squamata. Colubroidea evolved from  Caenophidia.",
+ 				"traits":["Like other reptiles, rattlesnakes cannot tolerate extreme heat or cold. During the heat of the day, rattlesnakes hide themselves underground in burrows or under rocks. In the fall they congregate in rock slides or crevices for their winter hibernation in dens that may shelter hundreds of individuals of several different species. Upon emerging in the spring, the males mate with females and then disperse from the den site to spend the summer in surrounding countryside. In the fall they all return to the same den.","Rattlesnakes give birth to young that develop from eggs retained inside the mother (ovoviviparous). In the late summer, broods of 1–60 are produced; average broods number 4–10 young. Newborn rattlesnakes have functioning fangs and venom glands. Their venom is more potent but of lesser quantity than that of their mother, a condition that helps ensure that the young can secure food. The newborn babies are also equipped with a single button on the end of the tail.","In the colder winter months, some rattlesnake species enter a period of brumation, which is dormancy similar to hibernation. They often gather together for brumation in large numbers (sometimes over 1,000 snakes), huddling together inside underground "rattlesnake dens" or hibernacula. Rattlesnakes regularly share their winter burrows with a wide variety of other species (such as turtles, small mammals, invertebrates, and other types of snakes)."]
+ 			},
+ 			{
+ 				"when":"100 million years ago",
+ 				"what":"Caenophidia",
+ 				"formAndStructure": "Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes. Like all squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. are elongated, legless, carnivorous reptiles of the suborder Serpentes. Like all squamates, they are ectothermic, amniote vertebrates covered in overlapping scales.",
+ 				"evolution": "Snakes are believed to be evolves from serpentes."
+
+			}
+		    {
+ 				"when":"Serpentes",
+ 				"what":"150 million years ago",
+ 				"formAndStructure": "The feeding behavior of the earliest snakes was inferred to have been similar to that of most extant snakes: they were likely widely foraging stealth predators, hunting soft-bodied prey subequal to head size (likely small vertebrates, either while active, e.g., nocturnal mammals, or asleep, e.g., diurnal squamates). Constriction is relatively restricted in its phylogenetic distribution, and likely did not arise outside of crown Alethinophidia.",
+ 				"evolution": "Serpentes evolved from the group Toxicofera."
+
+			}
+		    {
+ 				"when":"220 million years ago",
+ 				"what":"Toxicofera",
+ 				"formAndStructure": "Toxicofera is a proposed clade of scaled reptiles (squamates) that includes the Serpentes (snakes), Anguimorpha (monitor lizards, gila monster, and alligator lizards) and Iguania (iguanas, agamas, and chameleons). Toxicofera contains about 4,600 species, (nearly 60%) of extant squamata. It encompasses all venomous reptile species, as well as numerous related non-venomous species. There is little morphological evidence to support this grouping, however it has been recovered by all recent molecular analyses",
+ 				"evolution": "Toxicofera evolved from the later dinosaurs around middle jurassic period."
+
+			}]
+	 },
+
+{
+ 	"name": "Swan",
+ 	"coverImageURL": "https://www.thespruce.com/thmb/Reikve1LdnU4Eap0gCbOuvXZeU0=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/mute-swan-adult-58ad87433df78c345b85b294.jpg",
+ 	"briefDescription": "Swan, largest waterfowl species of the subfamily Anserinae, family Anatidae (order Anseriformes). Most swans are classified in the genus Cygnus. Swans are gracefully long-necked, heavy-bodied, big-footed birds that glide majestically when swimming and fly with slow wingbeats and with necks outstretched. They migrate in diagonal formation or V-formation at great heights, and no other waterfowl moves as fast on the water or in the air.",
+ 	"taxonomy":{
+ 		"commonName": "Mute Swan",
+ 		"binomialName":"Cygnus olor",
+ 		"class": "Aves",
+ 		"order": "Anseriformes",
+ 		"family": "Anatidae",
+ 		"genus":"Cygnus",
+ 	},
+ 	"timeline":[{
+ 				"when": "13000",
+ 				"what":"Swan",
+ 				"food": "Swans usually eat on the water. They are primarily herbivores, and will thus feast on all manner of aquatic vegetation. This includes:  algae ,pondweed, waterweed ,muskgrass ,coontail ,wild celery ,wild rice .However, since there are often smaller animals nearby this vegetation, their diet also consists of small amounts various creatures that may be in the vicinity while they feed, such as:  fish, mollusks ,frogs ,small insects and worms",
+ 				"size": "The mute swan,  can reach a length of over 1.5 m (59 in) and weigh over 15 kg (33 lb). Their wingspans can be over 3.1 m (10 ft).",
+ 				"evolution": "Mute Swan of subgenus Olor is evolved from Cygnus.",
+ 				"traits":["Mute swans can be very aggressive in defence of their nests and are highly protective of their mate and offspring. Most defensive attacks from a mute swan begin with a loud hiss and, if this is not sufficient to drive off the predator, are followed by a physical attack. Swans attack by smashing at their enemy with bony spurs in the wings, accompanied by biting with their large bill, while smaller waterbirds such as ducks are normally grabbed with the swan's bill and dragged or thrown clear of the swan and its offspring.","Mute swans lay from four to ten eggs, and the female broods for around 36 days. The cygnets do not reach the ability of flight before an age of 120 to 150 days: this limits the distribution of the species in the northern edge of its range, as the cygnets must learn to fly before the waters freeze.","It is partially migratory throughout northern latitudes in Europe and Asia, as far south as north Africa and the Mediterranean. It is known and recorded to have nested in Iceland and is a vagrant to that area, as well as to Bermuda."]
+ 			},
+ 			{
+ 				"when":"71 million years ago",
+ 				"what":"Anseriformes",
+ 				"formAndStructure": "Anseriformes includes around 180 species of ducks, geese and swans. They are evolved fro anserimorphae.",
+ 				"evolution": "Most modern species in the order are highly adapted for an aquatic existence at the water surface. With the exception of screamers, all have phalli, a trait that has been lost in the Neoaves. Due to their aquatic nature, most species are web-footed."
+
+			}
+		    {
+ 				"when":"100 million years ago",
+ 				"what":"Odontoanserae",
+ 				"formAndStructure": "This group has characteristics in the skull such as lack a crest on the underside of the palatine bone and two condyles on the mandibular process of the quadrate bone, with the middle condyle beakwards of the side condyle. The characteristic feature is pseudo-toothed birds",
+ 				"evolution": "Odontoanserae are found to be the descendents of Galloanserae."
+
+			}]
+	 },
+
+{
+ 	"name": "Azure Kingfisher",
+ 	"coverImageURL": "https://media.australianmuseum.net.au/media/dd/images/azure_kingfisher.1ccc7d6.width-1200.8383e05.jpg",
+ 	"briefDescription": "Kingfisher, any of about 90 species of birds in three families (Alcedinidae, Halcyonidae, and Cerylidae), noted for their spectacular dives into water. They are worldwide in distribution but are chiefly tropical.",
+ 	"taxonomy":{
+ 		"commonName": "Kingfisher",
+ 		"binomialName":"Ceyx azureus",
+ 		"class": "Aves",
+ 		"order": "Coraciiformes",
+ 		"family": "Alcedinidae",
+ 		"genus":"Ceyx",
+ 	},
+ 	"timeline":[{
+ 				"when": "8 million years ago",
+ 				"what":"Azure Kingfisher",
+ 				"food": "Some kingfishers eat fishes, amphibians, crustaceans and water insects, which they catch by diving into the water head-first. Most eastern hemisphere kingfishers don't fish, and the forest or wood kingfishers may live far from water.",
+ 				"size": "Kingfishers, ranging in length from 10 to 42 cm (4 to 16.5 inches), have a large head, a long and massive bill, and a compact body. Their feet are small, and, with a few exceptions, the tail is short or medium-length.",
+ 				"evolution": "Azure Kingfisher s are evolved from water Kingfisher,Cerylinae.",
+ 				"traits":["Kingfishers are territorial, some species defending their territories vigorously. They are generally monogamous, although cooperative breeding has been observed in some species and is quite common in others, for example the laughing kookaburra, where helpers aid the dominant breeding pair in raising the young.","The kingfishers have a cosmopolitan distribution, occurring throughout the world's tropical and temperate regions. They are absent from the polar regions and some of the world's driest deserts. A number of species have reached islands groups, particularly those in the south and east Pacific Ocean. The Old World tropics and Australasia are the core areas for this group. Europe and North America north of Mexico are very poorly represented, with only one common kingfisher (common kingfisher and belted kingfisher, respectively), and a couple of uncommon or very local species each: (ringed kingfisher and green kingfisher in the southwestern United States, pied kingfisher and white-throated kingfisher in southeastern Europe). "]
+ 			}]
+	 },
+{
+ 	"name": "Megacerops ",
+ 	"coverImageURL": "https://www.thoughtco.com/thmb/y-k8K4CDy_m_SJOzqXdsHhxdT0M=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/brontotheriumNT-56a253a65f9b58b7d0c9164f.jpg",
+ 	"briefDescription": "Megacerops was an immense four-legged mammal that probably resembled a rhinoceros, though it was closer in size to a modern day elephant. This creature featured a high back, a deep chest, and relatively short legs. On its nose was a forked horn. Unlike rhinos, whose horns are composed of keratin, the horn of Megacerops was made of bone.",
+ 	"taxonomy":{
+ 		"commonName": "Brontotherium",
+ 		"binomialName":"Megacerops kuwagatarhinus",
+ 		"class": "Pre Mammalia",
+ 		"order": "Perissodactyla",
+ 		"family": "Brontotheriidae",
+ 		"genus":"Megacerops",
+ 	},
+ 	"timeline":[{
+ 				"when": "38 million years ago",
+ 				"what":"Megacerops",
+ 				"food": "Brontotheres mainly ate soft plants, and may have gone extinct after such vegetation became harder to find within their range.",
+ 				"size": "Height – 8 ft. (2.5 meters) at the shoulder  ,Length – 16 ft. (5 meters) , Weight – 6600 lbs. (3 metric tons)",
+ 				"evolution": "The evolution of Megacerops is still under study.",
+ 				"traits":["Much of what was previously believed about Megacerops and brontothere behavior has been recently re-evaluated. It was once surmised that males would use their horns to headbutt each other much like modern day bighorn sheep. However, this is unlikely due to the spongy nature of the horn bone being unable to sustain such impact. They are now thought to have engaged more in pushing or wrestling behavior with their horns, and broken rib bones on some specimens seem to indicate that they may have attacked each other from the side."]
+ 			}]
+	 },
+{
+ 	"name": "Entelodon",
+ 	"coverImageURL": "https://www.thoughtco.com/thmb/JjEAFhoeGFuLjDMhgGJAocq8yd0=/669x423/filters:fill(auto,1)/entelodonHH-56a253a83df78cf772747674.jpg",
+ 	"briefDescription": "Entelodon (Ent-tell-oh-don), meaning , was a large ancestor of hoofed animals (mainly pigs). It could grow up to two meters tall, about the size of a rhino, and weighed up to one tonne. Entelodon has been described as the 'pig from hell'. They were aggressive, and could easily fight off many predators.",
+ 	"taxonomy":{
+ 		"commonName": "Entelodon",
+ 		"binomialName":"Houldjinian–Rupelian",
+ 		"class": "Pre Mammalia",
+ 		"order": "Artiodactyla",
+ 		"family": "Entelodontidae",
+ 		"genus":"Entelodon",
+ 	},
+ 	"timeline":[{
+ 				"when": "37 million years ago",
+ 				"what":"Entelodon",
+ 				"food": "Entelodon was like a moving waste disposal unit, capable of eating anything from rotten fruit, to dead bodies. Its strong jaws could crush bones, but it may have resulted in broken teeth. Its teeth also have wear marks, resulting from eating nuts, and roots.",
+ 				"size": "About 10 feet long and weighs 1,000 pounds.",
+ 				"evolution": "Other mammals of the time have also been considered to be related to the enteledonts,‭ ‬with the best known and perhaps most controversial case being Andrewsarchus.‭‬However the skull of Andrewsarchus does bear a striking similarity to the skulls of entelodonts with a long snout,‭ ‬wide jugals and similar tooth arrangement and fossil remains are known from the same time period and approximate location of other entelodont remains.",
+ 				"traits":["Entelodons were very aggressive towards each other. Males, being solitary, they fought fiercely with each other over territory, and food. Many fossilized skulls have been found with deep wounds on the snout, showing that many fights resulted in terrible wounds. In fact, the only threat to an Entelodon was another one. Females were found in small family units, protecting their young from predators and male Entelodons."]
+ 			}]
+	 },
+
+{
+ 	"name": "Adelie Penguin",
+ 	"coverImageURL": "https://www.wwf.org.uk/sites/default/files/styles/content_slide_image/public/2016-10/Original_WW22776.jpg?h=66ac411f&itok=2Fh0YA7h",
+ 	"briefDescription": "The Adélie penguin is a species of penguin common along the entire coast of the Antarctic continent, which is their only residence. They are the most widely spread penguin species, as well as the most southerly distributed of all penguins, along with the emperor penguin. ",
+ 	"taxonomy":{
+ 		"commonName": "Adelie Penguin",
+ 		"binomialName":"Pygoscelis adeliae",
+ 		"class": "Aves",
+ 		"order": "Sphenisciformes",
+ 		"family": "Spheniscidae",
+ 		"genus":"Pygoscelis",
+ 	},
+ 	"timeline":[{
+ 				"when": "38 million years ago",
+ 				"what":"Adelie Penguin",
+ 				"food": "The Adélie penguin is known to feed mainly on Antarctic krill, ice krill, Antarctic silverfish, sea krill, and glacial squid (diet varies depending on geographic location) during the chick-rearing season.",
+ 				"size": "Height: 24-27 in Weight: 8.5-11.75 lb.",
+ 				"evolution": "Adelie Penguin are descendants of primitive penguins Palaeeudyptinae.",
+ 				"traits":["They communicate through a set of vocalizations performed according to the requirements of a particular situation; a growl for territorial disputes or to suggest an intruder following a different path; a slow and repetitive growl when it is about to attack, and a continuous grunt when a confrontation starts.","Adélie penguins hunting strategies vary according to their conditions and needs. During breeding season, females can dive more time than males and go farther away from the coast to have more food choices. These penguins are migratory, and they are absent from their colonies during the months of April to September when they make long journeys of thousands of miles.","Adélie penguins living in the Ross Sea region in Antarctica migrate an average of about 13,000 kilometres (8,100 mi) each year as they follow the sun from their breeding colonies to winter foraging grounds and back again. During the winter the sun does not rise south of the Antarctic Circle, but sea ice grows during the winter months and increases for hundreds of miles from the shoreline, and into more northern latitudes, all around Antarctica. "]
+ 			}]
+	 },
+
+{
+ 	"name": "Dogs",
+ 	"coverImageURL": "https://images.unsplash.com/photo-1507660392550-9aff6e04c7e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60",
+ 	"briefDescription": "The domestic dog is a member of the genus Canis (canines), which forms part of the wolf-like canids, and is the most widely abundant terrestrial carnivore. The dog and the extant gray wolf are sister taxa as modern wolves are not closely related to the wolves that were first domesticated, which implies that the direct ancestor of the dog is extinct. The dog was the first species to be domesticated and has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.",
+ 	"taxonomy":{
+ 		"commonName": "Dog",
+ 		"binomialName":"Canis lupus familiaris",
+ 		"class": "Mammalia",
+ 		"order": "Carnivora",
+ 		"family": "Canidae",
+ 		"genus":"Canis",
+ 	},
+ 	"timeline":[{
+ 				"when": "25,700 years ago",
+ 				"what":"Dog",
+ 				"food": "Dogs have been described as carnivores or omnivores.",
+ 				"size": "Dogs are highly variable in height and weight. The smallest known adult dog was a Yorkshire Terrier, that stood only 6.3 cm (2.5 in) at the shoulder, 9.5 cm (3.7 in) in length along the head-and-body, and weighed only 113 grams (4.0 oz). The largest known dog was an English Mastiff which weighed 155.6 kg (343 lb) and was 250 cm (98 in) from the snout to the tail. The tallest dog is a Great Dane that stands 106.7 cm (42.0 in) at the shoulder.",
+ 				"evolution": "The closest living relative of the dog is the gray wolf and there is no evidence of any other canine contributing to its genetic lineage",
+ 				"traits":["Dog intelligence is the ability of the dog to perceive information and retain it as knowledge for applying to solve problems. Dogs have been shown to learn by inference.","Dog behavior is the internally coordinated responses (actions or inactions) of the domestic dog (individuals or groups) to internal and/or external stimuli.","Communication behaviors of dogs include eye gaze, facial expression, vocalization, body posture (including movements of bodies and limbs) and gustatory communication (scents, pheromones and taste). Humans communicate to dogs by using vocalization, hand signals and body posture."]
+ 			},
+ 			{
+ 				"when":"0.29 million years ago",
+ 				"what":"Paleolithic Dog",
+ 				"formAndStructure": "Are said to have evolved from Old World Clade of Wolves",
+ 				"evolution": "The Paleolithic dog was smaller than the Pleistocene wolf (Canis c.f. lupus) and the extant gray wolf (Canis lupus), with a skull size that indicates a dog similar in size to the modern large dog breeds."
+
+			},
+ 			{
+ 				"when":"1 million years ago",
+ 				"what":"Gray wolf",
+ 				"formAndStructure": "Gray wolf weight and size can vary greatly worldwide, tending to increase proportionally with latitude as predicted by Bergmann's rule, with the large wolves of Alaska and Canada sometimes weighing 3–6 times more than their Middle Eastern and South Asian cousins. On average, adult wolves measure 105–160 cm (41–63 in) in length and 80–85 cm (31–33 in) in shoulder height.",
+ 				"evolution": "Are said to have evolved from Canis Leophagus."
+
+			},
+			{
+				"when":"5 million years ago",
+				"what":"Canis Leophagus",
+				"formAndStructure":" specimen was estimated by Legendre and Roth to weigh 18.5 kilograms (41 lb) and another specimen was estimated to weigh 17 kilograms (37 lb).",
+				"evolution":"Have been speculated to have evolved from Canini."
+			}
+			]
+},
+{
+ 	"name": "Gray Wolf",
+ 	"coverImageURL": "https://images.unsplash.com/photo-1510853675132-58241c941e4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+ 	"briefDescription": "The domestic dog is a member of the genus Canis (canines), which forms part of the wolf-like canids, and is the most widely abundant terrestrial carnivore. The dog and the extant gray wolf are sister taxa as modern wolves are not closely related to the wolves that were first domesticated, which implies that the direct ancestor of the dog is extinct. The dog was the first species to be domesticated and has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.",
+ 	"taxonomy":{
+ 		"commonName": "Grey/Gray Wolf",
+ 		"binomialName":"Canis lupus",
+ 		"class": "Mammalia",
+ 		"order": "Carnivora",
+ 		"family": "Canidae",
+ 		"genus":"Canis",
+ 	},
+ 	"timeline":[{
+ 				"when":"1 million years ago",
+ 				"what":"Gray wolf",
+ 				"food":"Globally, gray wolf diet is predominantly composed of large (240–650 kg (530–1,430 lb)) and medium-sized (23–130 kg (51–287 lb)) wild ungulates, with local population variations due to the mix of wild ungulates, smaller prey and domestic species consumed.",
+ 				"size":"Gray wolf weight and size can vary greatly worldwide, tending to increase proportionally with latitude as predicted by Bergmann's rule, with the large wolves of Alaska and Canada sometimes weighing 3–6 times more than their Middle Eastern and South Asian cousins. On average, adult wolves measure 105–160 cm (41–63 in) in length and 80–85 cm (31–33 in) in shoulder height.",
+ 				"evolution": "Are said to have evolved from Canis Leophagus.",
+ 				"traits":["The gray wolf is a social animal, whose basic social unit consists of a mated pair, accompanied by the pair's adult offspring. The average pack consists of a family of 5–11 animals (1–2 adults, 3–6 juveniles and 1–3 yearlings), or sometimes two or three such families, with exceptionally large packs consisting of up to 42 wolves being known.","The gray wolf is generally monogamous, with mated pairs usually remaining together for life. Upon the death of one mated wolf, pairs are quickly re-established. ","Although social animals, single wolves or mated pairs typically have higher success rates in hunting than do large packs, with single wolves having occasionally been observed to kill large prey such as moose, bison and muskoxen unaided."]
+ 			},
+			{
+				"when":"5 million years ago",
+				"what":"Canis Leophagus",
+				"formAndStructure":" specimen was estimated by Legendre and Roth to weigh 18.5 kilograms (41 lb) and another specimen was estimated to weigh 17 kilograms (37 lb).",
+				"evolution":"Have been speculated to have evolved from Canini."
+			}]
+},
+{
+ 	"name": "Platypus",
+ 	"coverImageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Steropodon_BW.jpg",
+ 	"briefDescription": "The platypus (Ornithorhynchus anatinus), sometimes referred to as the duck-billed platypus, is a semiaquatic egg-laying mammal endemic to eastern Australia, including Tasmania. ",
+ 	"taxonomy":{
+ 		"commonName": "Duck-billed Platypus",
+ 		"binomialName":"Ornithorhynchus anatinus",
+ 		"class": "Mammalia",
+ 		"order": "Monotremata",
+ 		"family": "Ornithorhynchidae",
+ 		"genus":"Ornithorhynchus",
+ 	},
+ 	"timeline":[{
+ 				"when": "19-48 million years ago",
+ 				"what":"Platypus",
+ 				"food": "The platypus is a carnivore: it feeds on annelid worms, insect larvae, freshwater shrimp, and freshwater yabby that it digs out of the riverbed with its snout or catches while swimming. It uses cheek-pouches to carry prey to the surface, where it is eaten.",
+ 				"size": "The body and the broad, flat tail of the platypus are covered with dense, brown fur that traps a layer of insulating air to keep the animal warm. The fur is waterproof, and the texture is akin to that of a mole. The platypus uses its tail for storage of fat reserves (an adaptation also found in animals such as the Tasmanian devil). The webbing on the feet is more significant on the front feet and is folded back when walking on land. The elongated snout and lower jaw are covered in soft skin, forming the bill. The nostrils are located on the dorsal surface of the snout, while the eyes and ears are located in a groove set just back from it; this groove is closed when swimming.",
+ 				"evolution": " are the survivors of an early branching of the mammal tree.  platypuses split from echidnas around 19–48 million years ago.",
+ 				"traits":["They lay eggs, and the eggs are similar to those of reptiles in that only part of the egg divides as it develops.","The platypus is semiaquatic, inhabiting small streams and rivers over an extensive range.","In captivity, platypuses have survived to 17 years of age, and wild specimens have been recaptured when 11 years old.","The platypus is an excellent swimmer and spends much of its time in the water foraging for food.","The species is endothermic, maintaining its body temperature at about 32 °C (90 °F), lower than most mammals, even while foraging for hours in water below 5 °C (41 °F)."]
+ 			}]
+ 			
+},
+{
+ 	"name": "Humans",
+ 	"coverImageURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/Akha_cropped_hires.JPG",
+ 	"briefDescription": "In taxonomy, Homo sapiens is the only extant human species. The name is Latin for 'wise man'.",
+ 	"taxonomy":{
+ 		"commonName": "Human",
+ 		"binomialName":"Homo sapien",
+ 		"class":"Mammalia",
+ 		"order":"Primates",
+ 		"family":"Homonidae",
+ 		"genus":"Homo",
+ 	},
+ 	"timeline":[{
+ 				"when": "300,000 years ago",
+ 				"what":"Homo sapien",
+ 				"size": "Generally, modern humans are more lightly built (or more 'gracile') than the more 'robust' archaic humans. Nevertheless, contemporary humans exhibit high variability in many physiological traits, and may exhibit remarkable 'robustness'.",
+ 				"evolution": "The speciation of H. sapiens out of archaic human varieties derived from H. erectus is estimated as having taken place over 350,000 years ago",
+ 				"traits":["Humans are highly social beings and tend to live in large complex social groups. More than any other creature, humans are capable of using systems of communication for self-expression, the exchange of ideas, and organization, and as such have created complex social structures composed of many cooperating and competing groups","The human brain, the focal point of the central nervous system in humans, controls the peripheral nervous system. In addition to controlling 'lower' involuntary, or primarily autonomic activities such as respiration and digestion, it is also the locus of 'higher' order functioning such as thought, reasoning, and abstraction.","Early human settlements were dependent on proximity to water and, depending on the lifestyle, other natural resources used for subsistence, such as populations of animal prey for hunting and arable land for growing crops and grazing livestock. However, modern humans have a great capacity for altering their habitats by means of technology, through irrigation, urban planning, construction, transport, manufacturing goods, deforestation and desertification."]
+ 			},
+ 			{
+ 				"when":"1.5 million years ago",
+ 				"what":"Homo erectus",
+ 				"evolution": "Homo erectus derives from early Homo or late Australopithecus."
+
+			},
+ 			{
+ 				"when":"2.5 million years ago",
+ 				"what":"Homo",
+ 				"evolution": "Homo appears in East Africa; with most Australopithecines they are considered the first hominins—that is, they are designated (by some) as those earliest humans and human relatives or ancestors to rise after splitting from the lineage of Pan, the chimpanzees."
+
+			},
+			{
+				"when":"13 million years ago",
+				"what":"Homininae",
+				"evolution":"Homininae ancestors speciate from the ancestors of the orangutan."
+			},
+			{
+				"what":"Hominidae",
+				"when":"15 million years ago",
+				"evolution":"Hominidae (great ape ancestors) speciate from the ancestors of the gibbon (lesser apes)"				
+			},
+			{
+				"when":"25 million years ago",
+				"what":"Hominoidea"
+			},
+			{
+				"when":"40 million years ago",
+				"what":"Old World Monkeys"				
+			}]
+ }
